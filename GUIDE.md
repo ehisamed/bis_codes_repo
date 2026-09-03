@@ -230,7 +230,7 @@ y = 2 * (a + b);     // сначала a+b, потом умножение на 2
 ```
 laba1/
  ├── GUIDE.md              ← этот файл (общий гайд)
- └── lab1/
+ └── labaratory1/
       ├── variant01/
       │    ├── solution.cpp    ← готовый код для Visual Studio
       │    ├── scheme.drawio   ← блок-схема алгоритма
